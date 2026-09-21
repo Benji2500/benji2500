@@ -1,4 +1,4 @@
-# benji
+# Boma Benjamin Obene 
 
 Software engineer in progress. I learn by building things that work, then figuring out why they work.
 
