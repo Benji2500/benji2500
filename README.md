@@ -1,32 +1,35 @@
-# 👋 Hi, I'm Benji
+# benji
 
-**Software Engineer | Builder | Lifelong Learner**
+Software engineer in progress. I learn by building things that work, then figuring out why they work.
 
-I'm a software engineer focused on understanding *how* and *why* systems work, not just making them function. I'm building strong programming foundations and turning what I learn into real projects.
+Focus areas: Python, backend, automation, AI-assisted development. Currently moving from small programs to complete systems.
 
----
+Contact: benjaminboma25@gmail.com · [LinkedIn](https://www.linkedin.com/in/benjamin-boma25)
 
-## 🧑‍💻 About Me
+## What and why
 
-- 🐍 Learning and building with Python
-- 🔧 Interested in backend, automation, and AI-assisted development
-- 🏗️ I learn best by building real projects
-- 🧠 Improving problem-solving and debugging skills
-- 🤖 Using AI as a development partner
-- 🎯 Goal: go from idea → code → working product
+Most learning-in-public profiles are a list of tutorials someone watched. This one is a log of things I built, broke, debugged, and rebuilt. Every project here exists because I wanted to understand a system, not because it was on a syllabus.
 
----
+The approach is simple: build the smallest version that works, understand *why* it works, then improve it. No rewriting history, no pretending the first version was clean.
 
-## 📚 What I'm Learning
+## How I work
 
-### Programming
+I understand things in this order:
+
+> Why it works ~ How it works ~ How to make it better
+
+Then I build it, break it, fix it, and repeat. If I can't explain why something works, I don't consider it learned.
+
+## Learning track
+
+**Programming**
 - Python
-- Fundamentals
-- DSA (Data Structures & Algorithms)
-- OOP (Object-Oriented Programming)
+- Fundamentals (properly, not just skimming)
+- DSA
+- OOP
 - Problem solving
 
-### Software Engineering
+**Software engineering**
 - Git & GitHub
 - Debugging
 - APIs
@@ -34,78 +37,53 @@ I'm a software engineer focused on understanding *how* and *why* systems work, n
 - Testing
 - Architecture
 
-### Development
+**Development**
 - Backend
 - Automation
 - AI-assisted dev
 - Real-world apps
 
----
+## Projects
 
-## 🔍 My Approach
+### Student Management System
+Python CLI app for managing student records. First real "build something that works" project.
 
-I focus on understanding:
+**What it does:**
+- Add, view, update, and delete student records
+- Saves data locally so it persists between runs
+- Handles user input and basic validation
 
-> **Why it works → How it works → How to improve it**
-
-I learn by building, breaking, debugging, and iterating.
-
----
-
-## 🚀 Projects
-
-### 📚 Student Management System
-*A Python project built while learning fundamentals*
-
-**Concepts covered:**
+**What I learned:**
 - Variables, loops, conditionals
-- Functions, lists, user input
-- Basic data handling & debugging
+- Functions, lists, dictionaries
+- File handling
+- Debugging (the good kind of pain)
 
-> More projects coming soon.
+More projects coming. Slowly but surely.
 
----
+## Tech stack
 
-## 🛠️ Tech Stack
+**Languages:** Python
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Tools:** Git · GitHub · VS Code
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Currently exploring:** Backend · APIs & databases · Web dev · Automation · AI-assisted coding
 
-### Currently Exploring
-- Backend development
-- APIs & databases
-- Web development
-- Automation
-- AI & AI-assisted coding
+## Goal
 
----
+Move from small programs to complete software systems.
 
-## 🎯 My Current Goal
+**Learn ~ Build ~ Break ~ Debug ~ Improve ~ Repeat**
 
-> Move from small programs to building complete software systems.
+## Why this repo exists
 
-**Learn → Build → Break → Debug → Improve → Repeat**
+This GitHub documents my learning through projects, experiments, and practice. Not trying to look impressive but trying to show real progress through code.
 
----
+## Contact
 
-## 📈 GitHub Journey
+I like software, solving problems, and understanding how things are built. If you're learning or building too, reach out.
 
-This GitHub documents my learning through projects, experiments, and practice.
+- Email: benjaminboma25@gmail.com
+- LinkedIn: [benjamin-boma25](https://www.linkedin.com/in/benjamin-boma25)
 
-> Not about looking impressive — about showing progress through code.
-
----
-
-## 🤝 Let's Build
-
-I enjoy software, problem-solving, and understanding how systems are built.  
-If you're learning or building too, feel free to connect.
-
----
-
-> *"Always learning. Always building."*
+> *Always learning. Always building.*
